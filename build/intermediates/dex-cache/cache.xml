@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Murtaza\.android\build-cache\4a6b3265a9717f159d32aed3c09689776c5e2f60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\ANDROID_APPS\Projects\MyApplication\app\build\intermediates\pre-dexed\debug\classes_1f0356e3c31d377726fb23badccb9ff51656d3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Murtaza\.android\build-cache\204160679cd98c4c41510832ad7ca87e7ac8aaf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\ANDROID_APPS\Projects\MyApplication\app\build\intermediates\pre-dexed\debug\classes_d307e7f7fcd2fe3adfe9dac0e882b2bb8aaa0b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Murtaza\.android\build-cache\9aef0ab3f42aa43d7ad9c8c47396dfabf9426950\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\ANDROID_APPS\Projects\MyApplication\app\build\intermediates\pre-dexed\debug\classes_2ab57e55660b18599a95d6a06696d26e4dd932cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Murtaza\.android\build-cache\47e481632021110d9fdf3a5749056e9f8f38b054\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\ANDROID_APPS\Projects\MyApplication\app\build\intermediates\pre-dexed\debug\classes_4a41d0c526acdf667403ed137dff43983b4777a0.jar" />
+    </item>
+
+</items>

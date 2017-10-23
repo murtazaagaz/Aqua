@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:itemBackground">@color/white</item>
+        <item name="android:actionMenuTextColor">@color/black</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+
+        <item name="android:itemTextAppearance">@style/MenuItemTextAppearance</item>
+
+
+    </style>
+    <style name="MenuItemTextAppearance">
+        <item name="android:textColor">@color/black</item> // replace this value with your desired menu item color.
+    </style>
+
+</resources>

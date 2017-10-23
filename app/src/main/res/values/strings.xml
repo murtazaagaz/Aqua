@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StockManager</string>
+    <string-array name="payment">
+        <item>Cash</item>
+        <item>Check</item>
+    </string-array>
+</resources>
